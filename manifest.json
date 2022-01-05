@@ -1,6 +1,6 @@
 {
-    "name": "Enrollment",
-    "short_name": "Enrollment",
+    "name": "Credit",
+    "short_name": "credit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
