@@ -1,6 +1,6 @@
 {
-    "name": "lead_generation",
-    "short_name": "lead_generation",
+    "name": "Enrollment",
+    "short_name": "Enrollment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
