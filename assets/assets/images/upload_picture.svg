@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="40" viewBox="0 0 70 40">
+  <g id="upload_front_side" transform="translate(-0.038 -0.291)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="70" height="40" rx="3" transform="translate(0.038 0.291)" fill="#f5f5f5"/>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M10.265,11.549A5.774,5.774,0,1,0,4.491,5.774,5.776,5.776,0,0,0,10.265,11.549ZM15.4,12.832H13.189a6.98,6.98,0,0,1-5.846,0H5.133A5.132,5.132,0,0,0,0,17.964v.642a1.925,1.925,0,0,0,1.925,1.925H18.606a1.925,1.925,0,0,0,1.925-1.925v-.642A5.132,5.132,0,0,0,15.4,12.832Z" transform="translate(5.767 8.679)" fill="rgba(0,0,0,0.87)" opacity="0.1"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="26" height="4" rx="2" transform="translate(36.038 12.291)" fill="#e0e0e0"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="15" height="5" rx="2.5" transform="translate(36.038 20.291)" fill="#e0e0e0"/>
+  </g>
+</svg>

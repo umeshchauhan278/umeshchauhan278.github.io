@@ -1,11 +1,11 @@
 {
-    "name": "Credit",
-    "short_name": "credit",
+    "name": "credit_los",
+    "short_name": "credit_los",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "credit loan offering system",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
